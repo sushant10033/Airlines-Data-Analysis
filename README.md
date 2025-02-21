@@ -20,8 +20,7 @@ Ensure you have the following installed:
 ### Steps to Install
 1. **Clone the repository**
    ```sh
-   git clone https://github.com/yourusername/Airlines-Data-Analysis-Repository.git
-   cd Airlines-Data-Analysis-Repository
+https://github.com/sushant10033/Airlines-Data-Analysis
    ```
 2. **Install dependencies**
    ```sh
